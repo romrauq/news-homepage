@@ -30,6 +30,7 @@ body {
 	width: 100vw;
 	background-color: rgba(6, 0, 0, 0.4);
 	z-index: 10;
+	display: none;
 }
 header {
 	margin: 20px 15% 30px;
@@ -201,6 +202,7 @@ header {
 		display: flex;
 		flex-direction: column;
 		z-index: 15;
+		display: none;
 	}
 	.close-menu-icon {
 		display: block;
