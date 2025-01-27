@@ -200,7 +200,7 @@ header {
 		background-color: white;
 		display: flex;
 		flex-direction: column;
-		/* display: none; */
+		z-index: 15;
 	}
 	.close-menu-icon {
 		display: block;
