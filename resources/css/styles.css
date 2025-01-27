@@ -1,0 +1,74 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+:root {
+	--soft-orange: hsl(35, 77%, 62%);
+	--soft-red: hsl(5, 85%, 63%);
+	--off-white: hsl(36, 100%, 99%);
+	--grayish-blue: hsl(233, 8%, 79%);
+	--dark-grayish-blue: hsl(236, 13%, 42%);
+	--very-dark-blue: hsl(240, 100%, 5%);
+}
+@font-face {
+	font-family: Inter;
+	src: url(../fonts/Inter-VariableFont_slnt\wght.ttf);
+}
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+header {
+}
+.logo-container {
+}
+.logo-image {
+}
+.links-container {
+}
+.link-text {
+}
+.main-container {
+}
+.grid-container {
+}
+.hero-grid {
+}
+.hero-image {
+}
+.heading-text-grid {
+}
+.description-grid {
+}
+.description-text {
+}
+.new-articles-grid {
+}
+.new-article-row {
+}
+.new-article-title {
+}
+.new-article-subtext {
+}
+.bottom-articles-container {
+}
+.bottom-article-row {
+}
+.article-column {
+}
+.article-number {
+}
+.bottom-article-title {
+}
+.bottom-article-subtext {
+}
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
