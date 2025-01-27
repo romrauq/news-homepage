@@ -192,10 +192,10 @@ header {
 	}
 	.links-container {
 		position: absolute;
-		right: 0;
 		top: 0;
+		right: 60vw;
 		padding: 20px;
-		width: 60%;
+		width: 70vw;
 		height: 100vh;
 		font-size: 18px;
 		background-color: white;
